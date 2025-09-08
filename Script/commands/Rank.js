@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "rank",
 	version: "2.0.0",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "ⁱᵃᵐ|¸„.-•~¹°”ˆ˜¨ť𝒆αꪑx𝖉αȵᶢ𝒆𝔯¨˜ˆ𒆜",
 	description: "View Member Rankings",
 	commandCategory: "Group",
 	usages: " [user] or [tag]",
